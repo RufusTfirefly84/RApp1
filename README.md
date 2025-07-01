@@ -31,6 +31,8 @@ restaurant rating app
         }
 
         /* Custom slider styles */
+        Add Restaurant Directory App
+        
         input[type="range"] {
             -webkit-appearance: none;
             appearance: none;
